@@ -4,7 +4,7 @@ Cloudfront Cache Invalidation API.
 
 ## Description
 
-API written in Goland that implements the ability to automatically invalidate cloudfront cache for the supplied distribution and paths
+API written in Golang that implements the ability to automatically invalidate cloudfront cache for the supplied distribution and paths
 
 ## Getting Started
 
